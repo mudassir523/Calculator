@@ -12,7 +12,6 @@ Try it here: [Click to Open](https://mudassir523.github.io/Calculator/)
 
 ## 📸 Screenshot
 ![Calculator Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with your actual image file name. You can take a screenshot of your calculator in the browser and save it in the repo.)*
 
 ---
 
