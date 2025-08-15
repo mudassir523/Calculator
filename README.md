@@ -26,7 +26,7 @@ Try it here: [Click to Open](https://mudassir523.github.io/Calculator/)
 ## 🛠️ Technologies Used
 - **HTML5** — Structure  
 - **CSS3** — Styling  
-- **JavaScript (ES6)** — Functionality  .
+- **JavaScript (ES6)** — Functionality.
 
 ---
 
