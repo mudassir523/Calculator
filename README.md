@@ -15,7 +15,7 @@ Try it here: [Click to Open](https://mudassir523.github.io/Calculator/)
 ## ✨ Features
 - Perform basic operations: **Addition, Subtraction, Multiplication, Division**
 - **Clear** and **Delete** functions
-- Responsive layout — works on mobile, tablet, and desktop
+- Responsive layout — works on mobile, tablet, and desktop. 
 - Simple, minimal design. 
 
 ---
