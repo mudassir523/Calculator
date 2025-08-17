@@ -30,5 +30,5 @@ Try it here: [Click to Open](https://mudassir523.github.io/Calculator/)
 ## 📂 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mudassir523/Calculator.git
+   git clone https://github.com/mudassir523/Calculator.git   ... 
 . 
