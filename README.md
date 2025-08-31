@@ -9,7 +9,7 @@ A clean and responsive web-based calculator built with **HTML**, **CSS**, and **
 Try it here: [Click to Open](https://mudassir523.github.io/Calculator/)
 
 ---
-zz
+zzz
 ---
 
 ## ✨ Features
